@@ -1,0 +1,23 @@
+body {
+  background-color: $VeryLightGray;
+}
+
+.nav {
+  background-color: $White;
+  box-shadow:0px 8px 10px -15px $DarkGray;
+}
+
+.tituloPrincipal{
+  font-family: $NunitoSans;
+  font-size: 13px;
+  font-weight: 800;
+} 
+.tituloSecundario {
+  font-family: $nunitoSans;
+  font-size: 11px;
+  font-weight: 600;
+}
+.flex {
+  display: flex;
+  
+}

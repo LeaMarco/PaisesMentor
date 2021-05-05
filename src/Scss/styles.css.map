@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,IAAI,CAAC;EACH,gBAAgB,EFCH,OAAe;CEA7B;;AAED,AAAA,IAAI,CAAC;EACH,gBAAgB,EFFX,KAAgB;EEGrB,UAAU,EAAC,GAAG,CAAC,GAAG,CAAC,IAAI,CAAE,KAAI,CFLrB,OAAe;CEMxB;;AAED,AAAA,gBAAgB,CAAA;EACd,WAAW,EFLD,aAAa,EAAE,UAAU;EEMnC,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;CACjB",
+    "sources": [
+        "styles.scss",
+        "variablesLightMode.scss",
+        "variablesDarkMode.scss",
+        "_globals.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
